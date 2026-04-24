@@ -1,16 +1,15 @@
-## Hi there 👋
+# Anja Andersen
 
-<!--
-**anjanjaa/anjanjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems architect and DevOps engineer working on intelligent systems, observability infrastructure, and applied AI.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLM-based systems
+- Observability & alert intelligence
+- Semantic system design
+- Language-aware automation
+
+## Projects
+
+- [SigLens — alert interpretation layer](https://github.com/ananjaa/siglens)
+- [SigLens Clustering — semantic grouping component](https://github.com/anjanjaa/siglens-clustering)
