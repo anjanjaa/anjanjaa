@@ -1,15 +1,17 @@
 # Anja Andersen
 
-Systems architect and DevOps engineer working on intelligent systems, observability infrastructure, and applied AI.
+Systems architect and Software DevOps engineer working on intelligent systems, observability infrastructure, and applied AI.
+
+Background in computational linguistics and NLP, focused on building language-aware systems on top of real operational infrastructure.
 
 ## Focus
-
 - LLM-based systems
 - Observability & alert intelligence
 - Semantic system design
-- Language-aware automation
+- Language-aware automation  
 
 ## Projects
+[SigLens](https://github.com/anjanjaa/siglens) — LLM-based alert interpretation layer for observability systems  
+[SigLens Clustering](https://github.com/anjanjaa/siglens-clustering) — semantic grouping of alerts into structured incidents  
 
-- [SigLens — alert interpretation layer](https://github.com/ananjaa/siglens)
-- [SigLens Clustering — semantic grouping component](https://github.com/anjanjaa/siglens-clustering)
+Forming a modular system for signal interpretation and structuring.
