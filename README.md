@@ -1,4 +1,4 @@
-# Anja Andersen
+# Anja Andersen; @anjanjaa
 
 Systems architect and DevOps engineer working on intelligent systems, observability infrastructure, and applied AI.
 
