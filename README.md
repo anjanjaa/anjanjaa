@@ -12,6 +12,4 @@ Background in computational linguistics and NLP, focused on building language-aw
 
 ## Projects
 - [SigLens](https://github.com/anjanjaa/siglens) — LLM-based alert interpretation layer for observability systems
-- [SigLens Clustering](https://github.com/anjanjaa/siglens-clustering) — semantic grouping of alerts into structured incidents  
-
-Forming a modular system for signal interpretation and structuring.
+- [SigLens Clustering](https://github.com/anjanjaa/siglens-clustering) — semantic grouping of alerts into structured incidents
